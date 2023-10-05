@@ -1,35 +1,37 @@
 # Project Overview: Pizza Sales Report 
 
-The objective of this project is to develop an Pizza Sales Dashboard to gain insights into business performance. This project involves a comprehensive analysis of Pizza Sales data for the years January 2015 to December 2015. The dataset includes a range of key metrics, such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredients and pizza name. The primary goal is to extract valuable insights from this data to better understand pizza sales performance during this year.
+**Objective**
 
-**Key Insights:**
+The objective of this project is to develop a Pizza Sales Dashboard for gaining valuable insights into the business performance of a pizza restaurant. This comprehensive analysis is based on pizza sales data from January 2015 to December 2015. The dataset includes crucial metrics such as pizza ID, order ID, pizza name ID, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredients, and pizza name. The primary goal is to extract meaningful insights from this data to better understand pizza sales performance during the specified year.
 
-**TOTAL REVENUE:** The revenue of the year is 380.05k rupees. 
+****Key Insights****
 
-**AVERAGE ORDER VALUE:** The average order value is 38.28, that means around 38 rupees.
+Total Revenue
+Total Revenue: The total revenue for the year amounts to 380.05k rupees.
+Order Metrics
+Average Order Value: The average order value is approximately 38 rupees, indicating the typical amount spent per order.
+Total Pizzas Sold: A total of 23,035 pizzas were sold during the year.
+Total Orders: There were 9,927 orders placed throughout the year.
+Average Pizzas per Order: On average, each order consisted of 2.32 pizzas.
+Busiest Days
+Busiest Days: Orders peaked on weekends, particularly on Thursday and Friday evenings.
+Busiest Months
+Busiest Months: The months of January and March recorded the highest number of orders.
+Sales Performance by Category
+Sales Performance by Category: The Classic Category contributed the most to both sales and total orders.
+Sales Performance by Size
+Sales Performance by Size: Large-sized pizzas were the top contributors to maximum sales.
+Best Sellers
+Best Sellers by Revenue: The Thai Chicken Pizza was the highest revenue-generating pizza.
+Best Sellers by Quantity: The Classic Deluxe Pizza recorded the highest total quantity sold.
+Best Sellers by Total Orders: The Classic Deluxe Pizza had the highest number of total orders.
+Worst Sellers
+Worst Sellers by Revenue: The Brie Carre Pizza had the lowest revenue contribution.
+Worst Sellers by Quantity: The Brie Carre Pizza had the lowest total quantity sold.
+Worst Sellers by Total Orders: The Brie Carre Pizza had the lowest total number of orders.
+This Pizza Sales Dashboard provides a comprehensive overview of the business's performance during the specified year, enabling data-driven decision-making and a deeper understanding of sales trends.
 
-**TOTAL PIZZA SOLD:** Total pizza sold in a year are 23035.
 
-**TOTAL ORDERS:** Total orders in a year are 9927.
 
-**AVERAGE PIZZA PER ORDER:** Average pizza sold per order is 2.32, that means around 2 pizzas.
- 
-**BUSIEST DAYS:** Orders are highest on weekends, THURSDAY/FRIDAY evenings.
 
-**BUSIEST MONTHS:** There are maximum orders from month of JANUARY and MARCH.
 
-**SALES PERFORMANCE BY CATEGORY:** Classic Category contributes to maximum sales & total orders.
-
-**SALES PERFORMANCE BY SIZE:** Large size pizza contributes to maximum sales
-
-**BEST SELLERS BY REVENUE:** The Thai Chicken Pizza contributes to maximum revenue.
-
-**BEST SELLERS BY QUANTITY:** The Classic Deluxe Pizza contributes to maximum Total Quantity.
-
-**BEST SELLERS BY TOTAL ORDERS:** The Classic Deluxe Pizza contributes to maximum Total Orders.
-
-**WORST SELLERS BY REVENUE:** The Brie Carre Pizza  contributes to minimum Revenue.
-
-**WORST SELLERS BY QUANTITY:** The Brie Carre pizza contributes to minimum Total Quantity.
-
-**WORST SELLERS BY TOTAL ORDERS:** The Brie Carre Pizza  contributes to minimum Total Orders.
