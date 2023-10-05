@@ -1,5 +1,7 @@
 # Project Overview: Pizza Sales Report 
 
+IN this project I have used Power BI and SQL. It leverages Power BI for visualization and SQL for data validation, ensuring the accuracy and reliability of the presented insights.
+
 **Objective:**
 
 The objective of this project is to develop a Pizza Sales Dashboard for gaining valuable insights into the business performance of a pizza restaurant. This comprehensive analysis is based on pizza sales data from January 2015 to December 2015. The dataset includes crucial metrics such as pizza ID, order ID, pizza name ID, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredients, and pizza name. The primary goal is to extract meaningful insights from this data to better understand pizza sales performance during the specified year.
