@@ -1,6 +1,6 @@
 # Project Overview: Pizza Sales Report 
 
-IN this project I have used Power BI and SQL. It leverages Power BI for visualization and SQL for data validation, ensuring the accuracy and reliability of the presented insights.
+In this project I have used Power BI and SQL. It leverages Power BI for visualization and SQL for data validation, ensuring the accuracy and reliability of the presented insights.
 
 **Objective:**
 
